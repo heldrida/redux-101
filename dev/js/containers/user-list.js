@@ -14,7 +14,7 @@ class UserList extends Component {
 	}
 }
 
-// connect main state (store), to a component as its properties
+// connect main state (part of your store), to a component as its properties
 function mapStateToProps(state) {
 	return {
 		users: state.users
