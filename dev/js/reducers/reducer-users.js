@@ -20,7 +20,7 @@ export default function () {
 		age: 52,
 		description: "Sivano is an amazing Surf boarder",
 		thumbnail: "http://loremflickr.com/300/300"
-	}{
+	}, {
 		id: 4,
 		first: "Mike",
 		last: "Finn",
